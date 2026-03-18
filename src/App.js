@@ -6,7 +6,7 @@ import AdminDashboard from "./dashboards/AdminDashboard";
 import WorkerSettings from "./pages/WorkerSettings";
 import LoginPage from "./pages/LoginPage";
 import SignUpPage from "./pages/SignUpPage";
-import ClaimForm from "./components/ClaimForm";
+
 import { MdShield } from "react-icons/md";
 
 const VIEW_TITLES = {
